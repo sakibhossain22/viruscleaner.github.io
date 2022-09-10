@@ -1,0 +1,67 @@
+body {
+	margin: 0;
+	padding: 0;
+	width: 720px;
+	height: 1640px;
+}
+.main {
+	width: 720px;
+	margin: auto;
+	height: 1640px;
+}
+.main h1 {margin: auto;width: 100%;padding: 72px 45px 53px 168px;color: #ff0000;font-size: 64px;}
+.main img {
+	
+margin: auto;
+	
+width: 979px;
+}
+.main h4 {
+	
+text-align: center;
+	
+width: 973px;
+	
+font-size: 20px;
+}
+.main h2 {
+	
+font-size: 44px;
+	
+width: 827px;
+	
+margin: auto;
+	
+padding-left: 85px;
+	
+text-align: center;
+}
+.main button {
+	
+width: 184px;
+	
+color: white;
+	
+position: absolute;
+	
+background: red;
+	
+left: 428px;
+	
+font-size: 28px;
+}
+.main h3 {
+	
+width: 900px;
+	
+text-align: center;
+	
+margin: 0;
+	
+padding: 29px;
+	
+font-size: 50px;
+	
+color: red;
+}
+
